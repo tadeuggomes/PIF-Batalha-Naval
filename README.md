@@ -17,4 +17,4 @@ Implementação do clássico jogo Batalha Naval em linguagem C. O foco do projet
 
 * **Linguagem:** C
 * **Bibliotecas Permitidas:** `stdio.h`, `stdlib.h`, `string.h`, `time.h`, `ctype.h`, `stdbool.h`.
-* **🚫 Restrição:** É proibido o uso de bibliotecas externas ou recursos gráficos.
+* **Restrição:** É proibido o uso de bibliotecas externas ou recursos gráficos.
