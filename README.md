@@ -18,3 +18,25 @@ Implementação do clássico jogo Batalha Naval em linguagem C. O foco do projet
 * **Linguagem:** C
 * **Bibliotecas Permitidas:** `stdio.h`, `stdlib.h`, `string.h`, `time.h`, `ctype.h`, `stdbool.h`.
 * **Restrição:** É proibido o uso de bibliotecas externas ou recursos gráficos.
+
+## 4. 📂 Estrutura de Arquivos
+
+A estrutura do projeto seguirá a modularização sugerida:
+
+```
+.
+├── Makefile
+├── README.md
+├── main.c
+└── src/
+    ├── board.c
+    ├── board.h
+    ├── fleet.c
+    ├── fleet.h
+    ├── game.c
+    ├── game.h
+    ├── io.c
+    ├── io.h
+    ├── rnd.c
+    └── rnd.h
+```
