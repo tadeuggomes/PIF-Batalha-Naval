@@ -1,0 +1,6 @@
+# Arquivos objeto
+*.o
+
+# Executável
+batalha_naval
+batalha_naval.exe
