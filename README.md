@@ -39,6 +39,7 @@ O foco acadêmico está na prática de conceitos essenciais e avançados da ling
 ---
 
 ## 📂 **4. Estrutura de Diretórios**
+...
 .
 ├── Makefile            # Script de automação para compilação
 ├── README.md           # Documentação do projeto
@@ -54,6 +55,7 @@ O foco acadêmico está na prática de conceitos essenciais e avançados da ling
     ├── io.h            # Interações com o usuário (entrada/saída)
     ├── rnd.c
     └── rnd.h           # Funções de aleatoriedade
+...
 
 ## ⚙️ **5. Funcionalidades Implementadas**
 
