@@ -1,8 +1,8 @@
-# 🚢 Jogo da Batalha Naval - PIF 2025.2
+# Jogo da Batalha Naval - PIF 2025.2
 
 Projeto final da disciplina de Programação Imperativa e Funcional (PIF) do Curso de Sistemas de Informação da CESAR School.
 
-## 1. 📝 Descrição
+## 1. Descrição
 
 Implementação do clássico jogo **Batalha Naval** em linguagem C. O projeto simula uma partida entre um jogador humano e o computador (CPU).
 
@@ -12,20 +12,20 @@ O foco acadêmico do projeto é o domínio de conceitos avançados da linguagem 
 * **Alocação Dinâmica de Memória** (`malloc` e `free`).
 * Modularização de código (Header files e Source files).
 
-## 2. 🧑‍💻 Autores
+## 2. Autores
 
 * **Maria Júlia Magalhães Ribeiro** - (mjmr@cesar.school)
 * **Jorge Tadeu Gomes da Silva Filho** - (jtgsf@cesar.school)
 
 **Professor:** João Victor Tinoco
 
-## 3. 🛠️ Tecnologias e Restrições
+## 3. Tecnologias e Restrições
 
 * **Linguagem:** C (C99 ou superior).
 * **Bibliotecas Padrão:** `stdio.h`, `stdlib.h`, `string.h`, `time.h`, `ctype.h`.
 * **Restrições:** Proibido o uso de bibliotecas externas ou interfaces gráficas (GUI). Todo o jogo roda via terminal (CLI).
 
-## 4. 📂 Estrutura de Diretórios
+## 4.  Estrutura de Diretórios
 
 O projeto foi organizado utilizando modularização. A estrutura abaixo facilita a compreensão:
 
@@ -46,7 +46,7 @@ O projeto foi organizado utilizando modularização. A estrutura abaixo facilita
     ├── rnd.c           # Funções de aleatoriedade
     └── rnd.h           # Header de aleatoriedade
 ```
-## ⚙️ **5. Funcionalidades Implementadas**
+##  **5. Funcionalidades Implementadas**
 
 - **Modos de Posicionamento da Frota**
   - Manual (usuário escolhe posição e orientação)
@@ -71,7 +71,7 @@ O projeto foi organizado utilizando modularização. A estrutura abaixo facilita
 
 ---
 
-## 🧠 **6. Decisões de Design**
+##  **6. Decisões de Design**
 
 ### **1. Modularização e Separação de Responsabilidades**
 - O módulo **`io`** trata exclusivamente da interação com o usuário.  
