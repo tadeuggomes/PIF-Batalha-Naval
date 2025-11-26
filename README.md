@@ -45,7 +45,7 @@ O projeto foi organizado utilizando modularização. A estrutura abaixo facilita
     ├── io.h            # Cabeçalhos de entrada/saída
     ├── rnd.c           # Funções de aleatoriedade
     └── rnd.h           # Header de aleatoriedade
-
+```
 ## ⚙️ **5. Funcionalidades Implementadas**
 
 - **Modos de Posicionamento da Frota**
